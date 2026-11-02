@@ -2,7 +2,7 @@
 
 I study architecture at the University of Innsbruck and draw mountains in ink. I started coding properly in summer 2026, and now I work on AI tools that take the tedious production work off architects and artists, so they can spend more of their day designing.
 
-- **Portfolio:** [https://luisakortner.github.io](https://luisakortner.github.io)  ---  [PDF](https://github.com/luisakortner/luisakortner.github.io/blob/main/Portfolio_LuisaKortner_2026.pdf)
+- **Portfolio:** [https://luisakortner.github.io](https://luisakortner.github.io)  -  [PDF](https://github.com/luisakortner/luisakortner.github.io/blob/main/Portfolio_LuisaKortner_2026.pdf)
 - **Resume:** [PDF](https://github.com/luisakortner/luisakortner.github.io/blob/main/resume_Luisa_Kortner_2026.pdf)
 - **Currently working on:** Albero, a historic theatre redesigned as a tree 
 - **Tools:** Rhino, Grasshopper, Python
